@@ -1,11 +1,14 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-	<title>Tiffani Haynes</title>
-</head>
-<body>
-	<H1>TIFFANI HAYNES</H1>
-	<a href="about.html"> About Me </a>
+---
+layout: default
+title: Tiffani's Blog
+---
 
-</body>
-</html>
+<div id="home">
+  <article class="post">
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a><p>{{ post.excerpt }}<!-- <a href="#">Read full article &rarr;</a> --></p></li>
+    {% endfor %}
+  </ul>
+</article>
+</div>

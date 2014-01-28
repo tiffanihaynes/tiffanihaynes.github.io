@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Blog Post 1"
+date:   2014-01-22 19:14:55
+---
+Whole Foods opened its fifth Austin location at the Domain on Wednesday, January 15. With several dining sections, an outdoor bar, live music area and a community room, the new market is as much a social venue as a grocery store. The company focus on organic and local shows up in the décor as well as on the shelves. Guests are greeted at the front door by a brightly colored wheelbarrow art installation by Roadhouse Relics, and a ride up the escalator includes a view of a moss and steel wall feature crafted by Austin Articulture Designs.
+
+[jekyll-gh]: https://github.com/tiffanihaynes/jekyll
+[jekyll]:    http://jekyllrb.com
+
